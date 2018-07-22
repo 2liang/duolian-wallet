@@ -1,6 +1,6 @@
-# test
+# Duolian-wallet
 
-> A Vue.js project
+> 多链科技旗下多链学院出品的以太坊钱包开发系列实战课程前端框架。
 
 ## Build Setup
 
@@ -26,5 +26,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
